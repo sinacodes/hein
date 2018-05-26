@@ -14,9 +14,9 @@
     "badge.background": "#60C195",
     "badge.foreground": "#000000",
     // button
-    "button.background": "#0088ff",
+    "button.background": "#9256AF",
     "button.foreground": "#fff",
-    "button.hoverBackground": "#9256AF",
+    "button.hoverBackground": "#5e3771",
     // contrast
     "contrastActiveBorder": null,
     "contrastBorder": "#ffffff00",
@@ -27,8 +27,8 @@
     // description
     "descriptionForeground": "#aaa",
     // diff
-    "diffEditor.insertedTextBackground": "#CC999B11",
-    "diffEditor.insertedTextBorder": "#CC999B55",
+    "diffEditor.insertedTextBackground": "#FFA5A911",
+    "diffEditor.insertedTextBorder": "#FFA5A955",
     "diffEditor.removedTextBackground": "#ee3a4311",
     "diffEditor.removedTextBorder": "#ee3a4355",
     // dropdown
@@ -38,13 +38,13 @@
     // editor
     // This is the main background color
     "editor.background": "#1a171e",
-    // this is the main text colour
+    // this is the main text 
     "editor.foreground": "#fff",
     // Okay this part is confusing as heck!
     // Currently found item
-    "editor.findMatchBackground": "#845936",
+    "editor.findMatchBackground": "#6f4d81",
     // Other Found Items int the document
-    "editor.findMatchHighlightBackground": "#CAD40F66",
+    "editor.findMatchHighlightBackground": "#4e365b",
     // WTF is this one for? I don't know
     "editor.findRangeHighlightBackground": "#243E51",
     // When you hover over something and a popup shows, this highlights that thing
@@ -56,9 +56,9 @@
     "editor.rangeHighlightBackground": "#1F4662",
     // selected Text colours
     // This is the standard Select colour
-    "editor.selectionBackground": "#576663",
+    "editor.selectionBackground": "#593436",
     // This is the colour of the other matching elements
-    "editor.selectionHighlightBackground": "#0050A480",
+    "editor.selectionHighlightBackground": "#402526",
     // if you tab away you can colour it differently, but ill leave this one out
     // "editor.inactiveSelectionBackground": "",
     // Word Highlights! This happens when you move your cursor inside a variable
@@ -99,7 +99,7 @@
     "editorOverviewRuler.border": "#000",
     "editorOverviewRuler.commonContentForeground": "#60C19555",
     "editorOverviewRuler.currentContentForeground": "#ee3a4355",
-    "editorOverviewRuler.incomingContentForeground": "#CC999B55",
+    "editorOverviewRuler.incomingContentForeground": "#FFA5A955",
     "editorRuler.foreground": "#1F4662",
     // editorSuggestWidget
     "editorSuggestWidget.background": "#0f0f0f",
@@ -122,7 +122,7 @@
     "foreground": "#aaa",
     // input
     "input.background": "#0b0b0b",
-    "input.border": "#000",
+    "input.border": "#1a171e",
     "input.foreground": "#60C195",
     "input.placeholderForeground": "#aaa",
     "inputOption.activeBorder": "#8dffff",
@@ -178,16 +178,16 @@
     "progressBar.background": "#60C195",
     // scrollbar
     "scrollbar.shadow": "#00000000",
-    "scrollbarSlider.activeBackground": "#60C195",
-    "scrollbarSlider.background": "#61786e",
-    "scrollbarSlider.hoverBackground": "#60C195",
+    "scrollbarSlider.activeBackground": "#5f3773",
+    "scrollbarSlider.background": "#474051",
+    "scrollbarSlider.hoverBackground": "#5f3773",
     // selection
-    "selection.background": "#027dff",
+    "selection.background": "#1a171e",
     // sidebar
     "sideBar.background": "#0f0f0f",
     "sideBar.border": "#1a171e",
     "sideBar.foreground": "#aaa",
-    "sideBarSectionHeader.background": "#0b0b0b",
+    "sideBarSectionHeader.background": "#1a171e",
     "sideBarSectionHeader.foreground": "#aaaaaa",
     "sideBarTitle.foreground": "#aaaaaa",
     // statusBar
@@ -214,18 +214,18 @@
     // --- workbench: terminal
     "terminal.ansiBlack": "#000000",
     "terminal.ansiRed": "#C94E99",
-    "terminal.ansiGreen": "#CC999B",
+    "terminal.ansiGreen": "#FFA5A9",
     "terminal.ansiYellow": "#60C195",
     "terminal.ansiBlue": "#0088ff",
-    "terminal.ansiMagenta": "#E1BEC4",
+    "terminal.ansiMagenta": "#FFA5A9",
     "terminal.ansiCyan": "#80fcff",
     "terminal.ansiWhite": "#ffffff",
     "terminal.ansiBrightBlack": "#0050A4",
     "terminal.ansiBrightRed": "#C94E99",
-    "terminal.ansiBrightGreen": "#CC999B",
+    "terminal.ansiBrightGreen": "#FFA5A9",
     "terminal.ansiBrightYellow": "#60C195",
     "terminal.ansiBrightBlue": "#0088ff",
-    "terminal.ansiBrightMagenta": "#E1BEC4",
+    "terminal.ansiBrightMagenta": "#FFA5A9",
     "terminal.ansiBrightCyan": "#80fcff",
     "terminal.ansiBrightWhite": "#0b0b0b",
     "terminal.background": "#0f0f0f",
@@ -235,15 +235,15 @@
     // Git status colors in File Explorer
     "gitDecoration.modifiedResourceForeground": "#60C195",
     "gitDecoration.deletedResourceForeground": "#C94E99",
-    "gitDecoration.untrackedResourceForeground": "#CC999B",
+    "gitDecoration.untrackedResourceForeground": "#FFA5A9",
     "gitDecoration.ignoredResourceForeground": "#C94E99",
     "gitDecoration.conflictingResourceForeground": "#FF7200",
     // textBlockQuote
     "textBlockQuote.background": "#0b0b0b",
-    "textBlockQuote.border": "#0088ff",
+    "textBlockQuote.border": "#9256AF",
     "textCodeBlock.background": "#0b0b0b",
-    "textLink.activeForeground": "#0088ff",
-    "textLink.foreground": "#0088ff",
+    "textLink.activeForeground": "#9256AF",
+    "textLink.foreground": "#9256AF",
     "textPreformat.foreground": "#60C195",
     "textSeparator.foreground": "#000",
     "titleBar.activeBackground": "#0f0f0f",
@@ -264,7 +264,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#998882"
+        "foreground": "#C8BBA0"
       }
     },
     {
@@ -320,14 +320,14 @@
       "name": "Punctuation Parameters",
       "scope": "punctuation.definition.parameters",
       "settings": {
-        "foreground": "#E5DBB8"
+        "foreground": "#AC84BD"
       }
     },
     {
       "name": "Punctuation Template Expression",
       "scope": "punctuation.definition.template-expression",
       "settings": {
-        "foreground": "#E5DBB8"
+        "foreground": "#AC84BD"
       }
     },
     {
@@ -361,7 +361,7 @@
         "punctuation.definition.string.template"
       ],
       "settings": {
-        "foreground": "#CC999B"
+        "foreground": "#FFA5A9"
       }
     },
     {
@@ -399,21 +399,21 @@
         "source.stylus entity"
       ],
       "settings": {
-        "foreground": "#CC999B"
+        "foreground": "#FFA5A9"
       }
     },
     {
       "name": "[CSS] - ID Selector",
       "scope": "entity.other.attribute-name.id.css",
       "settings": {
-        "foreground": "#A66C63"
+        "foreground": "#FFA5A9"
       }
     },
     {
       "name": "[CSS] - Element Selector",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#A2A0CC"
+        "foreground": "#FFA5A9"
       }
     },
     {
@@ -423,7 +423,7 @@
         "source.stylus support"
       ],
       "settings": {
-        "foreground": "#AC84BD"
+        "foreground": "#60C195"
       }
     },
     {
@@ -435,7 +435,7 @@
         "source.stylus support.constant"
       ],
       "settings": {
-        "foreground": "#E5DBB8"
+        "foreground": "#AC84BD"
       }
     },
     {
@@ -447,7 +447,7 @@
         "source.stylus punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#E5DBB8"
+        "foreground": "#AC84BD"
       }
     },
     {
@@ -493,7 +493,7 @@
       "name": "[HTML] - Quotes. these are a slightly different colour because expand selection will then not include quotes",
       "scope": "punctuation.definition.string.begin, punctuation.definition.string.end",
       "settings": {
-        "foreground": "#829995"
+        "foreground": "#aaa"
       }
     },
     {
@@ -514,7 +514,7 @@
       "name": "[INI] - Punctuation Definition",
       "scope": "source.ini punctuation.definition",
       "settings": {
-        "foreground": "#E5DBB8"
+        "foreground": "#AC84BD"
       }
     },
     {
@@ -528,14 +528,14 @@
       "name": "[JAVASCRIPT] - Storage Type Function",
       "scope": "source.js storage.type.function",
       "settings": {
-        "foreground": "#E1BEC4"
+        "foreground": "#FFA5A9"
       }
     },
     {
       "name": "[JAVASCRIPT] - Variable Language",
       "scope": "variable.language, entity.name.type.class.js",
       "settings": {
-        "foreground": "#E1BEC4"
+        "foreground": "#FFA5A9"
       }
     },
     {
@@ -549,7 +549,7 @@
       "name": "[PYTHON] - Self Argument",
       "scope": "variable.parameter.function.language.special.self.python",
       "settings": {
-        "foreground": "#E1BEC4"
+        "foreground": "#FFA5A9"
       }
     },
     {
@@ -706,7 +706,7 @@
       "name": "[PUG] - String Interpolated",
       "scope": "text.jade string.interpolated",
       "settings": {
-        "foreground": "#E5DBB8"
+        "foreground": "#AC84BD"
       }
     },
     {
@@ -734,7 +734,7 @@
       "name": "[TYPESCRIPT] - Punctuation Arrow Parameters",
       "scope": "meta.arrow.ts punctuation.definition.parameters",
       "settings": {
-        "foreground": "#E5DBB8"
+        "foreground": "#AC84BD"
       }
     },
     {
