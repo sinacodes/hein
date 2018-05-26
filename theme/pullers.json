@@ -52,7 +52,7 @@
     // when you have something selected, but have lost focus on the editor
     "editor.inactiveSelectionBackground": "#0b0b0b",
     // current line styles
-    "editor.lineHighlightBackground": "#394C49",
+    "editor.lineHighlightBackground": "#2b4343db",
     "editor.rangeHighlightBackground": "#1F4662",
     // selected Text colours
     // This is the standard Select colour
