@@ -1,0 +1,33 @@
+{
+	"name": "theme-pullers",
+	"version": "1.0.0",
+	"displayName": "Pullers Theme",
+	"description": "pupu",
+	"publisher": "rosi",
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"VSCode",
+		"Themes"
+	],
+	"engines": {
+		"vscode": "^1.15.0"
+	},
+	"scripts": {
+		"start": "nodemon --exec vsce package"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Pullers",
+				"uiTheme": "vs-dark",
+				"path": "./theme/pullers.json"
+			}
+		]
+	},
+	"devDependencies": {
+		"nodemon": "^1.14.12",
+		"vsce": "^1.36.2"
+	}
+}
