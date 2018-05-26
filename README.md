@@ -3,4 +3,4 @@
 still WIP.
 vs code color theme.
 
-[[https://github.com/rosinagala/pullers/master/img/pullers.png|alt=theme]]
+[[https://github.com/RosinaGala/pullers/blob/master/img/pullers.png]]
