@@ -3,4 +3,4 @@
 still WIP.
 vs code color theme.
 
-![Image](../blob/master/img/pullers.png?raw=true)
+![theme](/img/pullers.png "Description goes here")
