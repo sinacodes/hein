@@ -5,7 +5,7 @@
   "colors": {
     // activityBar
     "activityBar.background": "#161217",
-    "activityBar.border": "#161217",
+    // "activityBar.border": "#829995",
     "activityBar.dropBackground": "#000",
     "activityBar.foreground": "#fff",
     "activityBarBadge.background": "#829995",
@@ -122,7 +122,7 @@
     "foreground": "#aaa",
     // input
     "input.background": "#0b0b0b",
-    "input.border": "#161217",
+    "input.border": "#829995",
     "input.foreground": "#829995",
     "input.placeholderForeground": "#aaa",
     "inputOption.activeBorder": "#8dffff",
@@ -185,21 +185,21 @@
     "selection.background": "#161217",
     // sidebar
     "sideBar.background": "#1D181F",
-    "sideBar.border": "#161217",
+    "sideBar.border": "#829995",
     "sideBar.foreground": "#aaa",
     "sideBarSectionHeader.background": "#161217",
     "sideBarSectionHeader.foreground": "#aaaaaa",
     "sideBarTitle.foreground": "#aaaaaa",
     // statusBar
-    "statusBar.background": "#1D181F",
+    "statusBar.background": "#829995",
     "statusBar.border": "#161217",
     "statusBar.debuggingBackground": "#1D181F",
     "statusBar.debuggingForeground": "#000",
-    "statusBar.foreground": "#aaa",
+    "statusBar.foreground": "#000",
     "statusBar.noFolderBackground": "#1D181F",
     "statusBar.noFolderForeground": "#aaa",
-    "statusBarItem.activeBackground": "#0088ff",
-    "statusBarItem.hoverBackground": "#000",
+    "statusBarItem.activeBackground": "#6a9d95",
+    "statusBarItem.hoverBackground": "#7e908d",
     "statusBarItem.prominentBackground": "#1D181F",
     "statusBarItem.prominentHoverBackground": "#000",
     // tab
