@@ -4,17 +4,17 @@
   "type": "dark",
   "colors": {
     // activityBar
-    "activityBar.background": "#241E26",
-    "activityBar.border": "#241E26",
+    "activityBar.background": "#161217",
+    "activityBar.border": "#161217",
     "activityBar.dropBackground": "#000",
     "activityBar.foreground": "#fff",
     "activityBarBadge.background": "#829995",
     "activityBarBadge.foreground": "#000",
     // badge
-    "badge.background": "#829995",
+    "badge.background": "#546461",
     "badge.foreground": "#000000",
     // button
-    "button.background": "#5C4E63",
+    "button.background": "#67566f",
     "button.foreground": "#fff",
     "button.hoverBackground": "#5e3771",
     // contrast
@@ -37,7 +37,7 @@
     "dropdown.foreground": "#fff",
     // editor
     // This is the main background color
-    "editor.background": "#241E26",
+    "editor.background": "#161217",
     // this is the main text 
     "editor.foreground": "#fff",
     // Okay this part is confusing as heck!
@@ -52,8 +52,8 @@
     // when you have something selected, but have lost focus on the editor
     "editor.inactiveSelectionBackground": "#0b0b0b",
     // current line styles
-    "editor.lineHighlightBackground": "#2b4343db",
-    "editor.rangeHighlightBackground": "#1F4662",
+    "editor.lineHighlightBackground": "#2e3d3edb",
+    "editor.rangeHighlightBackground": "#365b54",
     // selected Text colours
     // This is the standard Select colour
     "editor.selectionBackground": "#593436",
@@ -73,17 +73,17 @@
     "editorError.border": "#000",
     "editorError.foreground": "#A22929",
     // gutter
-    "editorGutter.background": "#1D181F66",
+    // "editorGutter.background": "",
     "editorGutter.addedBackground": "#3C9F4A",
     "editorGutter.deletedBackground": "#A22929",
-    "editorGutter.modifiedBackground": "#26506D",
+    "editorGutter.modifiedBackground": "#6f4d81",
     // editorGroup
     "editorGroup.background": "#A22929",
     "editorGroup.border": "#1D181F",
     "editorGroup.dropBackground": "#1D181F99",
     // editorGroupHeader
-    "editorGroupHeader.noTabsBackground": "#241E26",
-    "editorGroupHeader.tabsBackground": "#241E26",
+    "editorGroupHeader.noTabsBackground": "#161217",
+    "editorGroupHeader.tabsBackground": "#161217",
     "editorGroupHeader.tabsBorder": "#1D181F",
     // editorHoverWidget
     "editorHoverWidget.background": "#1D181F",
@@ -117,12 +117,12 @@
     // extensionButton
     "extensionButton.prominentBackground": "#0088ff",
     "extensionButton.prominentForeground": "#fff",
-    "extensionButton.prominentHoverBackground": "#5C4E63",
+    "extensionButton.prominentHoverBackground": "#67566f",
     "focusBorder": "#000",
     "foreground": "#aaa",
     // input
     "input.background": "#0b0b0b",
-    "input.border": "#241E26",
+    "input.border": "#161217",
     "input.foreground": "#829995",
     "input.placeholderForeground": "#aaa",
     "inputOption.activeBorder": "#8dffff",
@@ -133,16 +133,16 @@
     "inputValidation.warningBackground": "#0b0b0b",
     "inputValidation.warningBorder": "#829995",
     // list
-    "list.activeSelectionBackground": "#241E26",
-    "list.activeSelectionForeground": "#aaa",
-    "list.dropBackground": "#000",
-    "list.focusBackground": "#000",
-    "list.focusForeground": "#aaa",
+    "list.activeSelectionBackground": "#161217",
+    "list.activeSelectionForeground": "#829995",
+    "list.dropBackground": "#161217",
+    "list.focusBackground": "#161217",
+    "list.focusForeground": "#829995",
     "list.highlightForeground": "#829995",
-    "list.hoverBackground": "#241E26",
-    "list.hoverForeground": "#aaa",
-    "list.inactiveSelectionBackground": "#000",
-    "list.inactiveSelectionForeground": "#aaa",
+    "list.hoverBackground": "#161217",
+    "list.hoverForeground": "#829995",
+    "list.inactiveSelectionBackground": "#161217",
+    "list.inactiveSelectionForeground": "#829995",
     // merge
     "merge.border": "#ffffff00",
     "merge.commonContentBackground": "#ffffff00",
@@ -178,21 +178,21 @@
     "progressBar.background": "#829995",
     // scrollbar
     "scrollbar.shadow": "#00000000",
-    "scrollbarSlider.activeBackground": "#5C4E63",
+    "scrollbarSlider.activeBackground": "#413354",
     "scrollbarSlider.background": "#474051",
-    "scrollbarSlider.hoverBackground": "#5f3773",
+    "scrollbarSlider.hoverBackground": "#413354",
     // selection
-    "selection.background": "#241E26",
+    "selection.background": "#161217",
     // sidebar
     "sideBar.background": "#1D181F",
-    "sideBar.border": "#241E26",
+    "sideBar.border": "#161217",
     "sideBar.foreground": "#aaa",
-    "sideBarSectionHeader.background": "#241E26",
+    "sideBarSectionHeader.background": "#161217",
     "sideBarSectionHeader.foreground": "#aaaaaa",
     "sideBarTitle.foreground": "#aaaaaa",
     // statusBar
     "statusBar.background": "#1D181F",
-    "statusBar.border": "#241E26",
+    "statusBar.border": "#161217",
     "statusBar.debuggingBackground": "#1D181F",
     "statusBar.debuggingForeground": "#000",
     "statusBar.foreground": "#aaa",
@@ -203,7 +203,7 @@
     "statusBarItem.prominentBackground": "#1D181F",
     "statusBarItem.prominentHoverBackground": "#000",
     // tab
-    "tab.activeBackground": "#241E26",
+    "tab.activeBackground": "#161217",
     "tab.activeForeground": "#fff",
     "tab.border": "#1D181F",
     "tab.activeBorder": "#829995",
@@ -240,10 +240,10 @@
     "gitDecoration.conflictingResourceForeground": "#FF7200",
     // textBlockQuote
     "textBlockQuote.background": "#0b0b0b",
-    "textBlockQuote.border": "#5C4E63",
+    "textBlockQuote.border": "#67566f",
     "textCodeBlock.background": "#0b0b0b",
-    "textLink.activeForeground": "#5C4E63",
-    "textLink.foreground": "#5C4E63",
+    "textLink.activeForeground": "#67566f",
+    "textLink.foreground": "#67566f",
     "textPreformat.foreground": "#829995",
     "textSeparator.foreground": "#000",
     "titleBar.activeBackground": "#1D181F",
@@ -292,7 +292,7 @@
       "name": "Keyword",
       "scope": "keyword, storage.type.class.js",
       "settings": {
-        "foreground": "#5C4E63"
+        "foreground": "#67566f"
       }
     },
     {
@@ -375,7 +375,7 @@
       "name": "Support Function",
       "scope": "support.function",
       "settings": {
-        "foreground": "#5C4E63"
+        "foreground": "#67566f"
       }
     },
     {
@@ -521,7 +521,7 @@
       "name": "[INI] - Punctuation Separator",
       "scope": "source.ini punctuation.separator",
       "settings": {
-        "foreground": "#5C4E63"
+        "foreground": "#67566f"
       }
     },
     {
