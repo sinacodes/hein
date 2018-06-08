@@ -1,8 +1,8 @@
 {
-	"name": "theme-pullers",
+	"name": "theme-hein",
 	"version": "1.0.0",
-	"displayName": "Pullers Theme",
-	"description": "pupu",
+	"displayName": "hein Theme",
+	"description": "hein",
 	"publisher": "rosi",
 	"categories": [
 		"Themes"
@@ -20,9 +20,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Pullers",
+				"label": "hein",
 				"uiTheme": "vs-dark",
-				"path": "./theme/pullers.json"
+				"path": "./theme/hein.json"
 			}
 		]
 	},
