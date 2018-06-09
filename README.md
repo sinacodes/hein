@@ -1,4 +1,4 @@
-![logo](/img/logo.png "hein" =350x)
+![logo](/img/logo.png "hein" =350px)
 
 still WIP.   
 VS Code color theme.   
