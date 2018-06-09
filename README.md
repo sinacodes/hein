@@ -1,17 +1,17 @@
-# hein
+![logo](/img/logo.png "hein")
 
-still WIP.
-vs code color theme.
+still WIP.   
+VS Code color theme.   
 got the basis from wes bos' [cobalt 2](https://github.com/wesbos/cobalt2).
 
-use it with the extention:
-[Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+use it with the extention:   
+[Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)   
 [Guides](https://marketplace.visualstudio.com/items?itemName=spywhere.guides)
 
-font:
+font:   
 [Input](http://input.fontbureau.com/)
 
-and settings:
+and settings:   
 
 ```
 "workbench.fontAliasing": "antialiased",
@@ -21,5 +21,7 @@ and settings:
 "editor.fontSize": 14,
 "editor.fontFamily": "Input"
 ```
+
+![palette](/img/palette.png "palette")
 
 ![theme](/img/hein.png "hein")

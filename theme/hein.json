@@ -285,7 +285,7 @@
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-        "foreground": "#E04C5C"
+        "foreground": "#E59B7E"
       }
     },
     {
@@ -607,7 +607,7 @@
       "scope": "markup.quote.markdown meta.paragraph.markdown",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#A57CA6"
+        "foreground": "#A9F2E6"
       }
     },
     {
@@ -622,7 +622,7 @@
       "scope": "markup.bold.markdown",
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#A57CA6"
+        "foreground": "#A9F2E6"
       }
     },
     {
@@ -630,7 +630,7 @@
       "scope": "markup.italic.markdown",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#A57CA6"
+        "foreground": "#A9F2E6"
       }
     },
     {
@@ -665,7 +665,7 @@
         "markup.underline.link.image.markdown"
       ],
       "settings": {
-        "foreground": "#A57CA6"
+        "foreground": "#A9F2E6"
       }
     },
     {
@@ -675,7 +675,7 @@
         "markup.inline.raw.markdown"
       ],
       "settings": {
-        "foreground": "#A57CA6"
+        "foreground": "#A9F2E6"
       }
     },
     {
@@ -685,14 +685,14 @@
         "markup.inline.raw.markdown"
       ],
       "settings": {
-        "foreground": "#A57CA6"
+        "foreground": "#A9F2E6"
       }
     },
     {
       "name": "[PUG] - Entity Name",
       "scope": "text.jade entity.name",
       "settings": {
-        "foreground": "#A57CA6"
+        "foreground": "#A9F2E6"
       }
     },
     {
@@ -741,14 +741,14 @@
       "name": "[TYPESCRIPT] - Storage",
       "scope": "source.ts storage",
       "settings": {
-        "foreground": "#A57CA6"
+        "foreground": "#A9F2E6"
       }
     },
     {
       "name": "[PHP] - Entity",
       "scope": "source.php entity",
       "settings": {
-        "foreground": "#A57CA6"
+        "foreground": "#A9F2E6"
       }
     },
     {
