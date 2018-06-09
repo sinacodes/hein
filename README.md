@@ -1,5 +1,5 @@
-![logo](/img/logo.png =350x)
 
+<img src="/img/logo.png" alt="logo" width="350px"/>
 still WIP.   
 VS Code color theme.   
 got the basis from wes bos' [cobalt 2](https://github.com/wesbos/cobalt2).
