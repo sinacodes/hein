@@ -2,8 +2,13 @@
 	"name": "theme-hein",
 	"version": "1.0.0",
 	"displayName": "hein Theme",
-	"description": "hein",
-	"publisher": "rosi",
+	"description": "hein. purple and mint.",
+	"publisher": "sinaburow",
+	"icon": "img/logo.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sinacodes/hein"
+	},
 	"categories": [
 		"Themes"
 	],
