@@ -1,6 +1,6 @@
 
-<img src="/img/logo.png" alt="logo" width="350px"/>
-still WIP.   
+<img src="https://raw.githubusercontent.com/sinacodes/hein/master/img/logo.png" alt="logo" width="350px"/>
+ 
 VS Code color theme.   
 got the basis from wes bos' [cobalt 2](https://github.com/wesbos/cobalt2).
 
@@ -21,7 +21,6 @@ and settings:
 "editor.fontSize": 14,
 "editor.fontFamily": "Input"
 ```
+![theme](https://raw.githubusercontent.com/sinacodes/hein/master/img/hein.png "hein")
 
-![palette](/img/palette.png "palette")
-
-![theme](/img/hein.png "hein")
+![palette](https://raw.githubusercontent.com/sinacodes/hein/master/img/palette.png "palette")
