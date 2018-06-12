@@ -1,6 +1,3 @@
-
-<img src="https://raw.githubusercontent.com/sinacodes/hein/master/img/logo.png" alt="logo" width="350px"/>
- 
 VS Code color theme.   
 Perfect for Front End Development with HTML, CSS, JS, React.
 
@@ -16,7 +13,6 @@ font:
 and settings:   
 
 ```
-"workbench.fontAliasing": "antialiased",
 "editor.rulers": [80,120],
 "editor.renderIndentGuides": false,
 "editor.cursorStyle": "block",
@@ -24,8 +20,8 @@ and settings:
 "editor.fontFamily": "Input"
 ```
 
-![html](https://raw.githubusercontent.com/sinacodes/hein/master/img/html.png "html")
-![css](https://raw.githubusercontent.com/sinacodes/hein/master/img/css.png "css")
 ![react](https://raw.githubusercontent.com/sinacodes/hein/master/img/react.png "react")
+![vue](https://raw.githubusercontent.com/sinacodes/hein/master/img/vue.png "vue")
+![php](https://raw.githubusercontent.com/sinacodes/hein/master/img/php.png "php")
 
 ![palette](https://raw.githubusercontent.com/sinacodes/hein/master/img/palette.png "palette")
