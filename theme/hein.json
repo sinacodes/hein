@@ -115,13 +115,13 @@
     "editorWidget.border": "#000",
     "errorForeground": "#A22929",
     // extensionButton
-    "extensionButton.prominentBackground": "#0088ff",
+    "extensionButton.prominentBackground": "#7EE5D4",
     "extensionButton.prominentForeground": "#fff",
     "extensionButton.prominentHoverBackground": "#AE91BB",
     "focusBorder": "#000",
     "foreground": "#aaa",
     // input
-    "input.background": "#0b0b0b",
+    "input.background": "#1D181F",
     "input.border": "#7EE5D4",
     "input.foreground": "#7EE5D4",
     "input.placeholderForeground": "#aaa",
@@ -166,7 +166,7 @@
     "peekViewResult.fileForeground": "#aaa",
     "peekViewResult.lineForeground": "#fff",
     "peekViewResult.matchHighlightBackground": "#000",
-    "peekViewResult.selectionBackground": "#000",
+    "peekViewResult.selectionBackground": "#593436",
     "peekViewResult.selectionForeground": "#fff",
     "peekViewTitle.background": "#1D181F",
     "peekViewTitleDescription.foreground": "#aaa",
@@ -182,7 +182,7 @@
     "scrollbarSlider.background": "#474051",
     "scrollbarSlider.hoverBackground": "#413354",
     // selection
-    "selection.background": "#161217",
+    "selection.background": "#aaaaaa",
     // sidebar
     "sideBar.background": "#1D181F",
     "sideBar.border": "#7EE5D4",
