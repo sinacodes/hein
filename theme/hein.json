@@ -65,9 +65,9 @@
     // Strong is the one where your cursor currently is
     "editor.wordHighlightStrongBackground": "#FFFFFF0D",
     // and this one is the rest of them
-    "editor.wordHighlightBackground": "#FFFFFF0D",
+    "editor.wordHighlightBackground": "#593436",
     "editorBracketMatch.background": "#000",
-    "editorBracketMatch.border": "#7EE5D480",
+    "editorBracketMatch.border": "#F0A3FF",
     "editorCodeLens.foreground": "#aaa",
     "editorCursor.foreground": "#7EE5D4",
     "editorError.border": "#000",
@@ -227,7 +227,7 @@
     "terminal.ansiBrightBlue": "#0088ff",
     "terminal.ansiBrightMagenta": "#C9BFFF",
     "terminal.ansiBrightCyan": "#80fcff",
-    "terminal.ansiBrightWhite": "#0b0b0b",
+    "terminal.ansiBrightWhite": "#7EE5D4",
     "terminal.background": "#1D181F",
     "terminal.foreground": "#ffffff",
     "terminalCursor.background": "#7EE5D4",
