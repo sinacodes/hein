@@ -306,7 +306,7 @@
       "name": "Meta Brace",
       "scope": "meta.brace",
       "settings": {
-        "foreground": "#fff"
+        "foreground": "#7EE5D4"
       }
     },
     {
@@ -361,7 +361,7 @@
         "punctuation.definition.string.template"
       ],
       "settings": {
-        "foreground": "#fff"
+        "foreground": "#7EE5D4"
       }
     },
     {
@@ -543,6 +543,73 @@
       "scope": "entity.other.inherited-class.js",
       "settings": {
         "foreground": "#ccc"
+      }
+    },
+    {
+      "name": "[PYTHON] - Variable",
+      "scope": [
+        "variable.language.special.cls.python",
+        "variable.language.special.self.python",
+        "variable.legacy.builtin.python",
+        "variable.parameter.class.python",
+        "variable.parameter.function-call.python",
+        "variable.parameter.function.language.python",
+        "variable.parameter.function.language.special.cls.python",
+				"variable.language.special.self.python",
+				"variable.parameter.function.language.special.self.python"
+      ],
+      "settings": {
+        "foreground": "#e1efff"
+      }
+    },
+    {
+      "name": "[PYTHON] - Variable",
+      "scope": [
+        "constant.character.escape.python",
+        "constant.character.escape.regexp",
+        "constant.character.format.placeholder.other.python",
+        "constant.character.set.regexp",
+        "constant.character.unicode.regexp",
+        "constant.language.python",
+        "constant.numeric.bin.python",
+        "constant.numeric.dec.python",
+        "constant.numeric.float.python",
+        "constant.numeric.hex.python",
+        "constant.numeric.oct.python",
+        "constant.numeric.python",
+        "constant.other.caps.python",
+        "constant.other.ellipsis.python",
+        "constant.other.set.regexp"
+      ],
+      "settings": {
+        "foreground": "#C9BFFF"
+      }
+    },
+    {
+      "name": "[PYTHON] - Meta Function Call",
+      "scope": [
+          "meta.function-call.python",
+          "meta.function-call.generic.python",
+      ],
+      "settings": { "foreground": "#7EE5D4" }
+    },
+    {
+      "name": "[PYTHON] - Punctuation",
+      "scope": [
+        "punctuation.definition.list.begin.python",
+        "punctuation.definition.list.end.python",
+        "punctuation.definition.dict.begin.python",
+        "punctuation.definition.dict.end.python",
+        "punctuation.separator.colon.python",
+        "punctuation.section.function.begin.python",
+    ],
+      "settings": { "foreground": "#fff" },
+    },
+    {
+      "name": "[PYTHON] - Quoted Docstring",
+      "scope": "string.quoted.docstring.multi.python",
+      "settings": {
+        "foreground": "#7EE5D4"
       }
     },
     {
