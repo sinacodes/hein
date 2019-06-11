@@ -74,9 +74,9 @@
     "editorError.foreground": "#A22929",
     // gutter
     // "editorGutter.background": "",
-    "editorGutter.addedBackground": "#3C9F4A",
-    "editorGutter.deletedBackground": "#A22929",
-    "editorGutter.modifiedBackground": "#6f4d81",
+    "editorGutter.addedBackground": "#9effd8",
+    "editorGutter.deletedBackground": "#f27d84",
+    "editorGutter.modifiedBackground": "#AE91BB",
     // editorGroup
     "editorGroup.border": "#1D181F",
     "editorGroup.dropBackground": "#1D181F99",
