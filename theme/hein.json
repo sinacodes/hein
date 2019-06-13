@@ -40,7 +40,6 @@
     "editor.background": "#161217",
     // this is the main text
     "editor.foreground": "#fff",
-    // Okay this part is confusing as heck!
     // Currently found item
     "editor.findMatchBackground": "#6f4d81",
     // Other Found Items int the document
@@ -392,7 +391,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#AE91BB"
+        "foreground": "#fff"
       }
     },
     {
@@ -600,7 +599,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#F0A3FF"
+        "foreground": "#fff"
       }
     },
     {
