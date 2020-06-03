@@ -9,7 +9,6 @@ use it with these extentions:
 [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)   
 [Guides](https://marketplace.visualstudio.com/items?itemName=spywhere.guides)
 
-```
 
 ![react](https://raw.githubusercontent.com/sinacodes/hein/master/img/react.png "react")
 ![html](https://raw.githubusercontent.com/sinacodes/hein/master/img/html.png "html")
