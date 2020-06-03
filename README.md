@@ -9,20 +9,8 @@ use it with these extentions:
 [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)   
 [Guides](https://marketplace.visualstudio.com/items?itemName=spywhere.guides)
 
-font:   
-[Input](http://input.fontbureau.com/)
-
-
-and settings:   
-
-```
-"editor.rulers": [80,120],
-"editor.renderIndentGuides": false,
-"editor.cursorStyle": "block",
-"editor.fontSize": 14,
-"editor.fontFamily": "Input"
 ```
 
 ![react](https://raw.githubusercontent.com/sinacodes/hein/master/img/react.png "react")
-
+![html](https://raw.githubusercontent.com/sinacodes/hein/master/img/html.png "html")
 ![palette](https://raw.githubusercontent.com/sinacodes/hein/master/img/palette.png "palette")
